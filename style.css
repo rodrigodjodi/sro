@@ -1,0 +1,26 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  background: #efefef;
+  font-family: "Lato", sans-serif;
+}
+img {
+  margin-top: 3em;
+  margin-bottom: 3em;
+  max-width: 100%;
+  height: auto;
+  max-height: 50vh;
+}
+.carimbo {
+  /*text-align: right;*/
+}
+h2 {
+  margin: 0;
+  font-size: 1em;
+}
+p {
+  margin: 0;
+  font-weight: 300;
+}
