@@ -7,7 +7,7 @@ body {
   font-family: "Lato", sans-serif;
 }
 img {
-  margin-top: 3em;
+  margin-top: 2em;
   margin-bottom: 3em;
   max-width: 100%;
   height: auto;
@@ -16,11 +16,21 @@ img {
 .carimbo {
   /*text-align: right;*/
 }
-h2 {
+h1 {
   margin: 0;
   font-size: 1em;
+  font-weight: 700;
+}
+h2 {
+  margin: 0 auto 0.8em;
+  font-size: 1em;
+  font-weight: 400;
 }
 p {
   margin: 0;
   font-weight: 300;
+  font-size: 0.9em;
+}
+p span {
+  font-weight: 400;
 }
